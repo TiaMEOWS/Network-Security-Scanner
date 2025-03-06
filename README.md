@@ -17,3 +17,4 @@ This tool scans a network for active hosts, open ports, running services, and po
 1. Clone the repository:
    ```bash
    git clone https://github.com/TiaMEOWS/Network-Security-Scanner.git
+2. python network_scanner.py
